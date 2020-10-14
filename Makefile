@@ -16,5 +16,5 @@ question_1_factorial: main.o factorial.o
 
 question_1_run: question_1_factorial
 	./question_1_factorial
-	clean
+	make clean
 # Makefile demo and question 1 factorial ↑
